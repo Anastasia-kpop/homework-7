@@ -11,3 +11,28 @@
     75% {left: 800px;}
     100% {left: 1550px;}
 }
+
+@keyframes cloud {
+    0% {right: 400px;}
+    100% {right: 1550px;}
+}
+
+@keyframes fish2 {
+    0% {right: 200px;}
+    25% {right: 400px;}
+    50% {right: 600px;}
+    75% {right: 800px;}
+    100% {right: 1550px;}
+}
+
+@keyframes fish3 {
+    0% {left: 400px;}
+    50% {left: 800px;}
+    100% {left: 1550px;}
+}
+
+@keyframes bird {
+    0% {right: 500px;}
+    50% {right: 800px;}
+    100% {right: 1450px;}
+}

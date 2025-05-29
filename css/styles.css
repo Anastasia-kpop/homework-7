@@ -46,7 +46,7 @@ position: absolute;
 
 .fish1 {
     width: 100px;
-    animation: fish1 20s linear infinite;
+    animation: fish1 15s linear infinite;
 	transition-timing-function: linear;
     position: absolute;
     top: 50%;
@@ -57,9 +57,8 @@ position: absolute;
 .fish2 {
     width: 100px;
     position: absolute;
-    top: 50%;
-    right: 100%;
-    animation: fish2 20s linear infinite;
+    top: 80%;
+    animation: fish2 17s linear infinite;
 	transition-timing-function: linear;
 }
 
@@ -67,8 +66,7 @@ position: absolute;
 .fish3 {
     width: 100px;
     position: absolute;
-    top: 50%;
-    right: 100%;
-    animation: fish3 20s linear infinite;
+    top: 65%;
+    animation: fish3 14s linear infinite;
 	transition-timing-function: linear;
 }
