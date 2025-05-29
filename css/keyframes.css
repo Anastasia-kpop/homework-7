@@ -1,0 +1,13 @@
+@keyframes fish1 {
+    0% {right: 400px;}
+    50% {right: 800px;}
+    100% {right: 1550px;}
+}
+
+@keyframes boat {
+    0% {left: 200px;}
+    25% {left: 400px;}
+    50% {left: 600px;}
+    75% {left: 800px;}
+    100% {left: 1550px;}
+}

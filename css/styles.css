@@ -4,36 +4,71 @@ body {
     background-size: cover;
 }
 
+div {
+    transition: all 10s linear;
+}
+div:hover {
+    transform: rotate(90deg)
+}
+
 .sun {
 width: 100px;
+position: absolute;
+    
 }
 
 
 .cloud {
 width: 120px;
+position: absolute;
+    animation: cloud 20s linear infinite;
+	transition-timing-function: linear;
 }
 
 
 .boat {
-    width: 120px;
+    width: 170px;
+    position: absolute;
+    top: 28%;
+    animation: boat 16s linear infinite;
+	transition-timing-function: linear;
 }
 
 
 .bird {
     width: 80px;
+    position: absolute;
+    top: 10%;
+    animation: bird 20s linear infinite;
+	transition-timing-function: linear;
 }
 
 
 .fish1 {
     width: 100px;
+    animation: fish1 20s linear infinite;
+	transition-timing-function: linear;
+    position: absolute;
+    top: 50%;
+    right: 100%;
 }
 
 
 .fish2 {
     width: 100px;
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    animation: fish2 20s linear infinite;
+	transition-timing-function: linear;
 }
 
 
 .fish3 {
     width: 100px;
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    animation: fish3 20s linear infinite;
+	transition-timing-function: linear;
 }
