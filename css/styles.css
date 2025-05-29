@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://natasaghinadze.github.io/lesson-6/animat/sea1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sun {
+width: 100px;
+}
+
+
+.cloud {
+width: 120px;
+}
+
+
+.boat {
+    width: 120px;
+}
+
+
+.bird {
+    width: 80px;
+}
+
+
+.fish1 {
+    width: 100px;
+}
+
+
+.fish2 {
+    width: 100px;
+}
+
+
+.fish3 {
+    width: 100px;
+}
